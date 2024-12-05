@@ -1,4 +1,4 @@
 # Kunal-Demo
 This is my first Repository.
 <br>
-Author - Kunal Nandi
+Author - Kunal Nandi(Analyst)
